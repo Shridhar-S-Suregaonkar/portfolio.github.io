@@ -1,14 +1,35 @@
 title: Shridhar Suregaonkar
 description: Computer Science Engineer | Researcher | Developer
-url: "https://shridhar-s-suregaonkar.github.io/portfolio.github.io/"
+url: "https://Shridhar-S-Suregaonkar.github.io"  # Replace with your GitHub username
 baseurl: ""
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
 
 # Personal info
 email: shridharsuregaonkar@gmail.com
 phone: 7483479427
-github_username: Shridhar-S-Suregaonkar
+github_username: yourgithubusername  # Replace with yours
+linkedin_username: yourlinkedinprofile  # Replace with yours
+
 education:
   - degree: BE, Computer Science and Engineering
     university: KLE Technological University
     cgpa: 8.71
     duration: Nov 2022 - May 2026
+  - degree: PCMB (Class XII)
+    institution: KCD
+    percentage: 82.66%
+    duration: 2020 - 2022
+  - degree: SSLC (Class X)
+    institution: Bethel English Medium High School
+    percentage: 94.08%
+    duration: 2018 - 2020
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
