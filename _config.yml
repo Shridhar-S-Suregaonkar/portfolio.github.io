@@ -1,3 +1,15 @@
-title: Your Portfolio Title
-description: A description of your portfolio or the purpose of your site.
-theme: jekyll-theme-cayman
+title: Shridhar Suregaonkar
+description: Computer Science Engineer | Researcher | Developer
+url: "https://yourusername.github.io"
+baseurl: ""
+
+# Personal info
+email: shridharsuregaonkar@gmail.com
+phone: 7483479427
+github_username: yourgithubusername
+linkedin_username: yourlinkedinprofile
+education:
+  - degree: BE, Computer Science and Engineering
+    university: KLE Technological University
+    cgpa: 8.71
+    duration: Nov 2022 - May 2026
