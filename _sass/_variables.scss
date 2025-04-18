@@ -1,0 +1,12 @@
+$text-color: #333;
+$background-color: #f9f9f9;
+$brand-color: #2a7ae2;
+$accent-color: #ff6b6b;
+
+$grey-color: #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark: darken($grey-color, 25%);
+
+$spacing-unit: 1.5rem;
+$border-radius: 8px;
+$box-shadow: 0 2px 5px rgba(0,0,0,0.1);
