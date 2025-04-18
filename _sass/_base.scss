@@ -1,0 +1,30 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  color: $text-color;
+  background-color: $background-color;
+  margin: 0;
+}
+
+a {
+  color: $brand-color;
+  text-decoration: none;
+  
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.btn {
+  display: inline-block;
+  background: $brand-color;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: $border-radius;
+  margin-top: 1rem;
+  
+  &:hover {
+    background: darken($brand-color, 10%);
+    text-decoration: none;
+  }
+}
