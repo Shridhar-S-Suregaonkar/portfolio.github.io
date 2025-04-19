@@ -6,5 +6,5 @@ date: 2023-05-10
 ---
 
 - DSA-based system covering all Indian states/districts
-- Generated 2.9GB of plot data
+- Generated 2.9MB of plot data
 - Implemented search filtering and price range selection
